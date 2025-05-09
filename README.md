@@ -1,9 +1,11 @@
-# Recipe_App_Using_Api
-Her is my project on Recipe 
+# Bank Dashboard
 
-which help to find our recipe Meals  like cheese,cake,burger and mores . 
+This is a simple Bank Dashboard project using HTML and CSS.  
+It provides a basic UI layout for managing bank account information.
 
-this is build on the HTML ,CSS .JS and API 
+## UI Preview
 
-![image](Screenshot(36).png)
+![Recipe UI](Screenshot%20(36).png)
+
+
 
