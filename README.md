@@ -1,12 +1,51 @@
-# Bank Dashboard
+🍽️ Recipe Finder
+This is a Recipe Finder web app built using HTML, CSS, and JavaScript, powered by the MealDB API.
+It helps users search and explore various delicious recipes from around the world! 🌎✨
 
-This is a simple Bank Dashboard project using HTML and CSS.  
-It provides a basic UI layout for managing bank account information.
+🔥 Features
+🔍 Search for meals by name
 
-## UI Preview
+📜 View detailed recipe instructions
 
-![Recipe UI](Screenshot%20(36).png)
-![Recipe UI](Screenshot%20(37).png)
+📸 Meal image preview
+
+🌐 Fetch live data from MealDB API
+
+🖼️ UI Preview
 
 
 
+🛠️ Project Structure
+index.html
+
+styles.css
+
+script.js
+
+README.md
+
+Images (Screenshot (36).png, Screenshot (37).png)
+
+🚀 How to Run
+Download or clone the repository.
+
+Open index.html file in your browser.
+
+Start searching for recipes and enjoy! 🍜
+
+📚 Tech Stack
+HTML5
+
+CSS3
+
+JavaScript (Vanilla)
+
+MealDB API
+
+🙌 Acknowledgements
+Thanks to MealDB for providing a free and awesome meals API! 🎉
+
+📬 Contact
+Have any suggestions? Feel free to reach out! 🚀
+
+✨ Happy Cooking! 👨‍🍳👩‍🍳
