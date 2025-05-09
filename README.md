@@ -13,7 +13,9 @@ It helps users search and explore various delicious recipes from around the worl
 
 🖼️ UI Preview
 
-
+#preview 
+![Recipe UI](Screenshot%20(36).png)
+![Recipe UI](Screenshot%20(37).png)
 
 🛠️ Project Structure
 index.html
