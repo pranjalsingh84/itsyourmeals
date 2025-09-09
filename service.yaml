@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: itsyourmeals-service
+spec:
+  type: NodePort   # For local cluster, or LoadBalancer if using cloud
+  selector:
+    app: itsyourmeals
+  ports:
+    - port: 80        # Service port
+      targetPort: 80  # Container port
+      nodePort: 30007 # Port exposed on your machine
